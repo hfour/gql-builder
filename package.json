@@ -1,0 +1,17 @@
+{
+    "name": "gql-builder",
+    "version": "0.0.0",
+    "description": "",
+    "scripts": {
+      "build": "tsc",
+      "watch": "tsc -w"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+      "typescript": "^3.7.5",
+      "prettier": "^1.19.1"
+    },
+    "license": "UNLICENSED"
+  }
+  
